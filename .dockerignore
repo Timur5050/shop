@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+*.iml
+**/__init__.py
+.DS_Store
+venv/
+.env
+.pytest_cache/
+**__pycache__/
